@@ -1,0 +1,50 @@
+{
+    "kit_id": "57-6300-070-00",
+    "std": [
+        {
+            "kit_number": "57-6300-070-00",
+            "kit_edi": "57630007000",
+            "kit_id": "359056",
+            "product_number": "6300-07-100",
+            "edi": "630007100",
+            "description": "NKII ALL-POLY PATELLA SIZE 0, 7MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-6300-070-00",
+            "kit_edi": "57630007000",
+            "kit_id": "359056",
+            "product_number": "6300-07-101",
+            "edi": "630007101",
+            "description": "NKII ALL-POLY PATELLA SIZE 1, 7MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-6300-070-00",
+            "kit_edi": "57630007000",
+            "kit_id": "359056",
+            "product_number": "6300-07-102",
+            "edi": "630007102",
+            "description": "NKII ALL-POLY PATELLA SIZE 2, 7MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-6300-070-00",
+            "kit_edi": "57630007000",
+            "kit_id": "359056",
+            "product_number": "6300-07-103",
+            "edi": "630007103",
+            "description": "NKII ALL-POLY PATELLA SIZE 3, 7MM",
+            "component_qty_standard": "1"
+        }
+    ],
+    "headers": [
+        "kit_number",
+        "kit_edi",
+        "kit_id",
+        "product_number",
+        "edi",
+        "description",
+        "component_qty_standard"
+    ]
+}

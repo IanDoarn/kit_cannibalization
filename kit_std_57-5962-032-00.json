@@ -1,13 +1,5 @@
 {
-    "headers": [
-        "kit_number",
-        "kit_edi",
-        "kit_id",
-        "product_number",
-        "edi",
-        "description",
-        "component_qty_standard"
-    ],
+    "kit_id": "57-5962-032-00",
     "std": [
         {
             "kit_number": "57-5962-032-00",
@@ -145,5 +137,13 @@
             "component_qty_standard": "1"
         }
     ],
-    "kit_id": "57-5962-032-00"
+    "headers": [
+        "kit_number",
+        "kit_edi",
+        "kit_id",
+        "product_number",
+        "edi",
+        "description",
+        "component_qty_standard"
+    ]
 }
