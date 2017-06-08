@@ -1,0 +1,149 @@
+{
+    "headers": [
+        "kit_number",
+        "kit_edi",
+        "kit_id",
+        "product_number",
+        "edi",
+        "description",
+        "component_qty_standard"
+    ],
+    "std": [
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-032-10",
+            "edi": "00596203210",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 3-4,10MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-032-12",
+            "edi": "00596203212",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 3-4,12MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-032-14",
+            "edi": "00596203214",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 3-4,14MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-032-17",
+            "edi": "00596203217",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 3-4,17MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-032-20",
+            "edi": "00596203220",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 3-4,20MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-040-10",
+            "edi": "00596204010",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 5-6,10MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-040-12",
+            "edi": "00596204012",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 5-6,12MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-040-14",
+            "edi": "00596204014",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 5-6,14MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-040-17",
+            "edi": "00596204017",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 5-6,17MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-040-20",
+            "edi": "00596204020",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 5-6,20MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-051-10",
+            "edi": "00596205110",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 7-10,10MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-051-12",
+            "edi": "00596205112",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 7-10,12MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-051-14",
+            "edi": "00596205114",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 7-10,14MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-051-17",
+            "edi": "00596205117",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 7-10,17MM",
+            "component_qty_standard": "1"
+        },
+        {
+            "kit_number": "57-5962-032-00",
+            "kit_edi": "57596203200",
+            "kit_id": "357837",
+            "product_number": "00-5962-051-20",
+            "edi": "00596205120",
+            "description": "NEXGEN LPS-FLEX FIXED PROLONG ART SUR EF 7-10,20MM",
+            "component_qty_standard": "1"
+        }
+    ],
+    "kit_id": "57-5962-032-00"
+}
