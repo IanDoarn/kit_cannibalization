@@ -113,52 +113,57 @@ class Cannibalizer:
 
         return new_kit_assembly
 
-if __name__ == '__main__':
-    # KIT = sys.argv[1]
-    # SERIALS = sys.argv[2].replace(' ','').split(',')
-
-    # KIT = '57-5962-032-00'
-    # SERIALS = ['73', '76', '77', '79', '81',
-    #            '82', '83', '84', '85', '86',
-    #            '87']
-
-    # KIT = '57-5994-000-00'
-    # SERIALS = ['104', '106', '107', '108', '109']
-
-    KIT = sys.argv[1]
-    SERIALS = [str(i) for i in sys.argv[2:]]
-
-    cnblzr = Cannibalizer(KIT, SERIALS, write_json=False)
+def create_new_kit_assembly(kit_number, serials, save_data=True, write_json=False, print_results=False):
+    cnblzr = Cannibalizer(kit_number, serials, write_json=write_json)
     breakout = cnblzr.generate_kit_breakout()
     component_count = cnblzr.get_total_components_count(breakout)
     kit_assembly = cnblzr.get_total_possible_valid_count(component_count)
-    with open('{}_breakout.json'.format(KIT), 'w')as f:
-        json.dump(breakout, f, indent=4, ensure_ascii=True)
-    with open('{}_std.json'.format(KIT), 'w')as f:
-        json.dump(cnblzr.generate_kit_std(), f, indent=4, ensure_ascii=True)
-    with open('{}_total_components.json'.format(KIT), 'w')as f:
-        json.dump(component_count, f, indent=4, ensure_ascii=True)
-    with open('{}_new_kit_assembly.json'.format(KIT), 'w')as f:
-        json.dump(kit_assembly, f, indent=4, ensure_ascii=True)
 
-    valid = 0
-    invalid = 0
-    total_pieces = component_count['total_pieces']
-    for row in kit_assembly['assembly']:
-        if row['status'] == 'valid': valid += 1
-        if row['status'] == 'invalid': invalid += 1
+    if save_data:
+        with open('{}_breakout.json'.format(KIT), 'w')as f:
+            json.dump(breakout, f, indent=4, ensure_ascii=True)
+        with open('{}_std.json'.format(KIT), 'w')as f:
+            json.dump(cnblzr.generate_kit_std(), f, indent=4, ensure_ascii=True)
+        with open('{}_total_components.json'.format(KIT), 'w')as f:
+            json.dump(component_count, f, indent=4, ensure_ascii=True)
+        with open('{}_new_kit_assembly.json'.format(KIT), 'w')as f:
+            json.dump(kit_assembly, f, indent=4, ensure_ascii=True)
 
-    head = PrettyTable(['Kit', '# valid possible', '# invalid possible', 'total pieces'])
-    head.add_row([KIT, valid, invalid, total_pieces])
+    if print_results:
+        valid = 0
+        invalid = 0
+        total_pieces = component_count['total_pieces']
+        for row in kit_assembly['assembly']:
+            if row['status'] == 'valid': valid += 1
+            if row['status'] == 'invalid': invalid += 1
 
-    for serial in kit_assembly['assembly']:
-        header = PrettyTable(['kit', 'serial', 'status'])
-        header.add_row([KIT, serial['serial'], serial['status']])
-        table = PrettyTable(['component', 'qty'])
-        for component in serial['build']:
-            table.add_row([component['component'],component['qty']])
+        head = PrettyTable(['Kit', '# valid possible', '# invalid possible', 'total pieces'])
+        head.add_row([KIT, valid, invalid, total_pieces])
 
-        print(header)
-        print(table)
+        for serial in kit_assembly['assembly']:
+            header = PrettyTable(['kit', 'serial', 'status'])
+            header.add_row([KIT, serial['serial'], serial['status']])
+            table = PrettyTable(['component', 'qty'])
+            for component in serial['build']:
+                table.add_row([component['component'],component['qty']])
 
-    print(head)
+            print(header)
+            print(table)
+
+        print(head)
+
+    return kit_assembly
+
+if __name__ == '__main__':
+    usage = "Kit Cannibaliztion\n" \
+            "usgae: canniblize.py kit_number serial1 serial2 serial3 ..."
+
+    if len(sys.argv) < 2:
+        print(usage)
+    else:
+        KIT = sys.argv[1]
+        SERIALS = [str(i) for i in sys.argv[2:]]
+
+        create_new_kit_assembly(KIT, SERIALS, print_results=True)
+
+
