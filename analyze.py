@@ -1,7 +1,9 @@
 import cannibalize
 import xlsxwriter
 import sys
+import os
 
+desktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')
 usage = "Kit Cannibaliztion\n" \
         "usage: analyze.py kit_number serial1 serial2 serial3 ..."
 
@@ -11,7 +13,7 @@ else:
     KIT = sys.argv[1]
     SERIALS = [str(i) for i in sys.argv[2:]]
 
-    FILE_NAME = 'cannibalization_report_{}.xlsx'.format(KIT)
+    FILE_NAME = '{}\\cannibalization_report_{}.xlsx'.format(desktop,KIT)
 
     kit_assembly_data = cannibalize.create_new_kit_assembly(KIT, SERIALS)
 
