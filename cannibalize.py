@@ -120,13 +120,13 @@ def create_new_kit_assembly(kit_number, serials, save_data=True, write_json=Fals
     kit_assembly = cnblzr.get_total_possible_valid_count(component_count)
 
     if save_data:
-        with open('{}_breakout.json'.format(KIT), 'w')as f:
+        with open('{}_breakout.json'.format(kit_number), 'w')as f:
             json.dump(breakout, f, indent=4, ensure_ascii=True)
-        with open('{}_std.json'.format(KIT), 'w')as f:
+        with open('{}_std.json'.format(kit_number), 'w')as f:
             json.dump(cnblzr.generate_kit_std(), f, indent=4, ensure_ascii=True)
-        with open('{}_total_components.json'.format(KIT), 'w')as f:
+        with open('{}_total_components.json'.format(kit_number), 'w')as f:
             json.dump(component_count, f, indent=4, ensure_ascii=True)
-        with open('{}_new_kit_assembly.json'.format(KIT), 'w')as f:
+        with open('{}_new_kit_assembly.json'.format(kit_number), 'w')as f:
             json.dump(kit_assembly, f, indent=4, ensure_ascii=True)
 
     if print_results:
@@ -138,11 +138,11 @@ def create_new_kit_assembly(kit_number, serials, save_data=True, write_json=Fals
             if row['status'] == 'invalid': invalid += 1
 
         head = PrettyTable(['Kit', '# valid possible', '# invalid possible', 'total pieces'])
-        head.add_row([KIT, valid, invalid, total_pieces])
+        head.add_row([kit_number, valid, invalid, total_pieces])
 
         for serial in kit_assembly['assembly']:
             header = PrettyTable(['kit', 'serial', 'status'])
-            header.add_row([KIT, serial['serial'], serial['status']])
+            header.add_row([kit_number, serial['serial'], serial['status']])
             table = PrettyTable(['component', 'qty'])
             for component in serial['build']:
                 table.add_row([component['component'],component['qty']])
@@ -156,7 +156,7 @@ def create_new_kit_assembly(kit_number, serials, save_data=True, write_json=Fals
 
 if __name__ == '__main__':
     usage = "Kit Cannibaliztion\n" \
-            "usgae: canniblize.py kit_number serial1 serial2 serial3 ..."
+            "usage: canniblize.py kit_number serial1 serial2 serial3 ..."
 
     if len(sys.argv) < 2:
         print(usage)
