@@ -1,15 +1,9 @@
 import pgsql
 import json
+from collections import OrderedDict
 from prettytable import PrettyTable
 import sys
 
-# KIT = sys.argv[1]
-# SERIALS = sys.argv[2].replace(' ','').split(',')
-
-KIT = '57-5962-032-00'
-SERIALS = ['73', '76', '77', '79', '81',
-           '82', '83', '84', '85', '86',
-           '87']
 
 class Cannibalizer:
 
@@ -79,23 +73,92 @@ class Cannibalizer:
         return kit_std_data
 
     def get_total_components_count(self, breakout):
-        components = {k: {"qty_std": k["component_qty_standard"]} for k in self._kit_std.keys()}
-        print(components)
-        # for serial in breakout['serials']:
+        components = {k: 0 for k in self._kit_std.keys()}
+        for serial, values in breakout['serials'].items():
+            for component_details in values['breakout']:
+                component_number = component_details["component_product_number"]
+                qty_in_kit = int(component_details["qty_in_kit"])
+                components[component_number] += qty_in_kit
+        total = 0
+        for key, value in components.items():
+            if key not in ['total_pieces', 'kit_number']:
+                total += value
+        components['total_pieces'] = total
+        components['kit_number'] = breakout['kit_number']
+        return components
 
+    def get_total_possible_valid_count(self, component_count):
+        total_pieces = component_count['total_pieces']
+        kit_number = component_count['kit_number']
 
+        new_kit_assembly = {'kit_number': kit_number, 'assembly': []}
 
-    # def get_total_possible_valid_count(self, breakout):
-    #     breakout = self.generate_kit_breakout()
+        for serial in self.serial_numbers:
+            current_kit = {'serial': serial, 'build': [], 'status': None}
+            for component, qty in component_count.items():
+                if component not in ['total_pieces', 'kit_number']:
+                    std_component_qty = self._kit_std[component]["component_qty_standard"]
+                    if qty >= std_component_qty:
+                        data = {'component': component, 'qty': std_component_qty}
+                        if data not in current_kit['build']:
+                            current_kit['build'].append(data)
+                            component_count[component] -= std_component_qty
+                            total_pieces -= std_component_qty
+            if len(current_kit['build']) == self._kit_std["total_pieces"]:
+                current_kit['status'] = 'valid'
+                new_kit_assembly['assembly'].append(current_kit)
+            else:
+                current_kit['status'] = 'invalid'
+                new_kit_assembly['assembly'].append(current_kit)
 
+        return new_kit_assembly
 
 if __name__ == '__main__':
+    # KIT = sys.argv[1]
+    # SERIALS = sys.argv[2].replace(' ','').split(',')
+
+    # KIT = '57-5962-032-00'
+    # SERIALS = ['73', '76', '77', '79', '81',
+    #            '82', '83', '84', '85', '86',
+    #            '87']
+
+    # KIT = '57-5994-000-00'
+    # SERIALS = ['104', '106', '107', '108', '109']
+
+    KIT = sys.argv[1]
+    SERIALS = [str(i) for i in sys.argv[2:]]
+
     cnblzr = Cannibalizer(KIT, SERIALS, write_json=False)
     breakout = cnblzr.generate_kit_breakout()
+    component_count = cnblzr.get_total_components_count(breakout)
+    kit_assembly = cnblzr.get_total_possible_valid_count(component_count)
     with open('{}_breakout.json'.format(KIT), 'w')as f:
         json.dump(breakout, f, indent=4, ensure_ascii=True)
     with open('{}_std.json'.format(KIT), 'w')as f:
         json.dump(cnblzr.generate_kit_std(), f, indent=4, ensure_ascii=True)
+    with open('{}_total_components.json'.format(KIT), 'w')as f:
+        json.dump(component_count, f, indent=4, ensure_ascii=True)
+    with open('{}_new_kit_assembly.json'.format(KIT), 'w')as f:
+        json.dump(kit_assembly, f, indent=4, ensure_ascii=True)
 
+    valid = 0
+    invalid = 0
+    total_pieces = component_count['total_pieces']
+    for row in kit_assembly['assembly']:
+        if row['status'] == 'valid': valid += 1
+        if row['status'] == 'invalid': invalid += 1
 
-    cnblzr.get_total_components_count(breakout)
+    head = PrettyTable(['Kit', '# valid possible', '# invalid possible', 'total pieces'])
+    head.add_row([KIT, valid, invalid, total_pieces])
+
+    for serial in kit_assembly['assembly']:
+        header = PrettyTable(['kit', 'serial', 'status'])
+        header.add_row([KIT, serial['serial'], serial['status']])
+        table = PrettyTable(['component', 'qty'])
+        for component in serial['build']:
+            table.add_row([component['component'],component['qty']])
+
+        print(header)
+        print(table)
+
+    print(head)

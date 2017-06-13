@@ -1,0 +1,2035 @@
+{
+    "serials": {
+        "108": {
+            "breakout": [
+                {
+                    "component_product_number": "00-5960-099-00",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "305",
+                    "component_description": "NEXGEN TAPER PLUG",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00596009900"
+                },
+                {
+                    "component_product_number": "00-5994-030-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "2",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403010"
+                },
+                {
+                    "component_product_number": "00-5994-030-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "4",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403012"
+                },
+                {
+                    "component_product_number": "00-5994-030-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403014"
+                },
+                {
+                    "component_product_number": "00-5994-030-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "27",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403017"
+                },
+                {
+                    "component_product_number": "00-5994-030-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403020"
+                },
+                {
+                    "component_product_number": "00-5994-030-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "8",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403023"
+                },
+                {
+                    "component_product_number": "00-5994-032-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403210"
+                },
+                {
+                    "component_product_number": "00-5994-032-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "19",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403212"
+                },
+                {
+                    "component_product_number": "00-5994-032-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403214"
+                },
+                {
+                    "component_product_number": "00-5994-032-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403217"
+                },
+                {
+                    "component_product_number": "00-5994-032-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "10",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403220"
+                },
+                {
+                    "component_product_number": "00-5994-032-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403223"
+                },
+                {
+                    "component_product_number": "00-5994-040-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404010"
+                },
+                {
+                    "component_product_number": "00-5994-040-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404012"
+                },
+                {
+                    "component_product_number": "00-5994-040-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404014"
+                },
+                {
+                    "component_product_number": "00-5994-040-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404017"
+                },
+                {
+                    "component_product_number": "00-5994-040-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404020"
+                },
+                {
+                    "component_product_number": "00-5994-040-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404023"
+                },
+                {
+                    "component_product_number": "00-5994-041-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404110"
+                },
+                {
+                    "component_product_number": "00-5994-041-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404112"
+                },
+                {
+                    "component_product_number": "00-5994-041-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "11",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404114"
+                },
+                {
+                    "component_product_number": "00-5994-041-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404117"
+                },
+                {
+                    "component_product_number": "00-5994-041-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404120"
+                },
+                {
+                    "component_product_number": "00-5994-041-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "23",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404123"
+                },
+                {
+                    "component_product_number": "00-5994-042-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404210"
+                },
+                {
+                    "component_product_number": "00-5994-042-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404212"
+                },
+                {
+                    "component_product_number": "00-5994-042-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404214"
+                },
+                {
+                    "component_product_number": "00-5994-042-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404217"
+                },
+                {
+                    "component_product_number": "00-5994-042-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404220"
+                },
+                {
+                    "component_product_number": "00-5994-042-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "13",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404223"
+                },
+                {
+                    "component_product_number": "00-5994-050-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405010"
+                },
+                {
+                    "component_product_number": "00-5994-050-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405012"
+                },
+                {
+                    "component_product_number": "00-5994-050-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "17",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405014"
+                },
+                {
+                    "component_product_number": "00-5994-050-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405017"
+                },
+                {
+                    "component_product_number": "00-5994-050-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "16",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405020"
+                },
+                {
+                    "component_product_number": "00-5994-050-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405023"
+                },
+                {
+                    "component_product_number": "00-5994-051-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405110"
+                },
+                {
+                    "component_product_number": "00-5994-051-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405112"
+                },
+                {
+                    "component_product_number": "00-5994-051-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "15",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405114"
+                },
+                {
+                    "component_product_number": "00-5994-051-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405117"
+                },
+                {
+                    "component_product_number": "00-5994-051-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "14",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405120"
+                },
+                {
+                    "component_product_number": "00-5994-051-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405123"
+                }
+            ],
+            "diff": [
+                {
+                    "pieces_missing": 8,
+                    "components_missing": [
+                        {
+                            "component_product_number": "00-5994-032-12",
+                            "component_prod_id": "00599403212",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-040-23",
+                            "component_prod_id": "00599404023",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-10",
+                            "component_prod_id": "00599405010",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-17",
+                            "component_prod_id": "00599405017",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-20",
+                            "component_prod_id": "00599405020",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-14",
+                            "component_prod_id": "00599405114",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-17",
+                            "component_prod_id": "00599405117",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-23",
+                            "component_prod_id": "00599405123",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM"
+                        }
+                    ]
+                }
+            ]
+        },
+        "109": {
+            "breakout": [
+                {
+                    "component_product_number": "00-5960-099-00",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "305",
+                    "component_description": "NEXGEN TAPER PLUG",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00596009900"
+                },
+                {
+                    "component_product_number": "00-5994-030-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "2",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403010"
+                },
+                {
+                    "component_product_number": "00-5994-030-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "4",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403012"
+                },
+                {
+                    "component_product_number": "00-5994-030-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403014"
+                },
+                {
+                    "component_product_number": "00-5994-030-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "27",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403017"
+                },
+                {
+                    "component_product_number": "00-5994-030-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403020"
+                },
+                {
+                    "component_product_number": "00-5994-030-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "8",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403023"
+                },
+                {
+                    "component_product_number": "00-5994-032-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403210"
+                },
+                {
+                    "component_product_number": "00-5994-032-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "19",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403212"
+                },
+                {
+                    "component_product_number": "00-5994-032-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403214"
+                },
+                {
+                    "component_product_number": "00-5994-032-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403217"
+                },
+                {
+                    "component_product_number": "00-5994-032-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "10",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403220"
+                },
+                {
+                    "component_product_number": "00-5994-032-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403223"
+                },
+                {
+                    "component_product_number": "00-5994-040-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404010"
+                },
+                {
+                    "component_product_number": "00-5994-040-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404012"
+                },
+                {
+                    "component_product_number": "00-5994-040-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404014"
+                },
+                {
+                    "component_product_number": "00-5994-040-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404017"
+                },
+                {
+                    "component_product_number": "00-5994-040-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404020"
+                },
+                {
+                    "component_product_number": "00-5994-040-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404023"
+                },
+                {
+                    "component_product_number": "00-5994-041-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404110"
+                },
+                {
+                    "component_product_number": "00-5994-041-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404112"
+                },
+                {
+                    "component_product_number": "00-5994-041-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "11",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404114"
+                },
+                {
+                    "component_product_number": "00-5994-041-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404117"
+                },
+                {
+                    "component_product_number": "00-5994-041-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404120"
+                },
+                {
+                    "component_product_number": "00-5994-041-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "23",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404123"
+                },
+                {
+                    "component_product_number": "00-5994-042-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404210"
+                },
+                {
+                    "component_product_number": "00-5994-042-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404212"
+                },
+                {
+                    "component_product_number": "00-5994-042-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404214"
+                },
+                {
+                    "component_product_number": "00-5994-042-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404217"
+                },
+                {
+                    "component_product_number": "00-5994-042-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404220"
+                },
+                {
+                    "component_product_number": "00-5994-042-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "13",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404223"
+                },
+                {
+                    "component_product_number": "00-5994-050-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405010"
+                },
+                {
+                    "component_product_number": "00-5994-050-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405012"
+                },
+                {
+                    "component_product_number": "00-5994-050-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "17",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405014"
+                },
+                {
+                    "component_product_number": "00-5994-050-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405017"
+                },
+                {
+                    "component_product_number": "00-5994-050-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "16",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405020"
+                },
+                {
+                    "component_product_number": "00-5994-050-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405023"
+                },
+                {
+                    "component_product_number": "00-5994-051-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405110"
+                },
+                {
+                    "component_product_number": "00-5994-051-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405112"
+                },
+                {
+                    "component_product_number": "00-5994-051-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "15",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405114"
+                },
+                {
+                    "component_product_number": "00-5994-051-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405117"
+                },
+                {
+                    "component_product_number": "00-5994-051-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "14",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405120"
+                },
+                {
+                    "component_product_number": "00-5994-051-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405123"
+                }
+            ],
+            "diff": [
+                {
+                    "pieces_missing": 15,
+                    "components_missing": [
+                        {
+                            "component_product_number": "00-5994-030-17",
+                            "component_prod_id": "00599403017",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-030-20",
+                            "component_prod_id": "00599403020",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-030-23",
+                            "component_prod_id": "00599403023",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-032-23",
+                            "component_prod_id": "00599403223",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-040-10",
+                            "component_prod_id": "00599404010",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-10",
+                            "component_prod_id": "00599404110",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-12",
+                            "component_prod_id": "00599404112",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-17",
+                            "component_prod_id": "00599404117",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-14",
+                            "component_prod_id": "00599404214",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-17",
+                            "component_prod_id": "00599404217",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-20",
+                            "component_prod_id": "00599404220",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-17",
+                            "component_prod_id": "00599405017",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-20",
+                            "component_prod_id": "00599405020",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-17",
+                            "component_prod_id": "00599405117",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-23",
+                            "component_prod_id": "00599405123",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM"
+                        }
+                    ]
+                }
+            ]
+        },
+        "104": {
+            "breakout": [
+                {
+                    "component_product_number": "00-5960-099-00",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "305",
+                    "component_description": "NEXGEN TAPER PLUG",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00596009900"
+                },
+                {
+                    "component_product_number": "00-5994-030-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "2",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403010"
+                },
+                {
+                    "component_product_number": "00-5994-030-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "4",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403012"
+                },
+                {
+                    "component_product_number": "00-5994-030-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403014"
+                },
+                {
+                    "component_product_number": "00-5994-030-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "27",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403017"
+                },
+                {
+                    "component_product_number": "00-5994-030-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403020"
+                },
+                {
+                    "component_product_number": "00-5994-030-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "8",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403023"
+                },
+                {
+                    "component_product_number": "00-5994-032-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403210"
+                },
+                {
+                    "component_product_number": "00-5994-032-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "19",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403212"
+                },
+                {
+                    "component_product_number": "00-5994-032-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403214"
+                },
+                {
+                    "component_product_number": "00-5994-032-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403217"
+                },
+                {
+                    "component_product_number": "00-5994-032-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "10",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403220"
+                },
+                {
+                    "component_product_number": "00-5994-032-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403223"
+                },
+                {
+                    "component_product_number": "00-5994-040-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404010"
+                },
+                {
+                    "component_product_number": "00-5994-040-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404012"
+                },
+                {
+                    "component_product_number": "00-5994-040-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404014"
+                },
+                {
+                    "component_product_number": "00-5994-040-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404017"
+                },
+                {
+                    "component_product_number": "00-5994-040-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404020"
+                },
+                {
+                    "component_product_number": "00-5994-040-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404023"
+                },
+                {
+                    "component_product_number": "00-5994-041-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404110"
+                },
+                {
+                    "component_product_number": "00-5994-041-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404112"
+                },
+                {
+                    "component_product_number": "00-5994-041-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "11",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404114"
+                },
+                {
+                    "component_product_number": "00-5994-041-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404117"
+                },
+                {
+                    "component_product_number": "00-5994-041-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404120"
+                },
+                {
+                    "component_product_number": "00-5994-041-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "23",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404123"
+                },
+                {
+                    "component_product_number": "00-5994-042-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404210"
+                },
+                {
+                    "component_product_number": "00-5994-042-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404212"
+                },
+                {
+                    "component_product_number": "00-5994-042-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404214"
+                },
+                {
+                    "component_product_number": "00-5994-042-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404217"
+                },
+                {
+                    "component_product_number": "00-5994-042-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404220"
+                },
+                {
+                    "component_product_number": "00-5994-042-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "13",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404223"
+                },
+                {
+                    "component_product_number": "00-5994-050-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405010"
+                },
+                {
+                    "component_product_number": "00-5994-050-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405012"
+                },
+                {
+                    "component_product_number": "00-5994-050-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "17",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405014"
+                },
+                {
+                    "component_product_number": "00-5994-050-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405017"
+                },
+                {
+                    "component_product_number": "00-5994-050-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "16",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405020"
+                },
+                {
+                    "component_product_number": "00-5994-050-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405023"
+                },
+                {
+                    "component_product_number": "00-5994-051-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405110"
+                },
+                {
+                    "component_product_number": "00-5994-051-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405112"
+                },
+                {
+                    "component_product_number": "00-5994-051-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "15",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405114"
+                },
+                {
+                    "component_product_number": "00-5994-051-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405117"
+                },
+                {
+                    "component_product_number": "00-5994-051-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "14",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405120"
+                },
+                {
+                    "component_product_number": "00-5994-051-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405123"
+                }
+            ],
+            "diff": [
+                {
+                    "pieces_missing": 2,
+                    "components_missing": [
+                        {
+                            "component_product_number": "00-5994-040-10",
+                            "component_prod_id": "00599404010",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-14",
+                            "component_prod_id": "00599405014",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM"
+                        }
+                    ]
+                }
+            ]
+        },
+        "106": {
+            "breakout": [
+                {
+                    "component_product_number": "00-5960-099-00",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "305",
+                    "component_description": "NEXGEN TAPER PLUG",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00596009900"
+                },
+                {
+                    "component_product_number": "00-5994-030-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "2",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403010"
+                },
+                {
+                    "component_product_number": "00-5994-030-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "4",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403012"
+                },
+                {
+                    "component_product_number": "00-5994-030-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403014"
+                },
+                {
+                    "component_product_number": "00-5994-030-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "27",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403017"
+                },
+                {
+                    "component_product_number": "00-5994-030-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403020"
+                },
+                {
+                    "component_product_number": "00-5994-030-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "8",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403023"
+                },
+                {
+                    "component_product_number": "00-5994-032-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403210"
+                },
+                {
+                    "component_product_number": "00-5994-032-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "19",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403212"
+                },
+                {
+                    "component_product_number": "00-5994-032-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403214"
+                },
+                {
+                    "component_product_number": "00-5994-032-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403217"
+                },
+                {
+                    "component_product_number": "00-5994-032-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "10",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403220"
+                },
+                {
+                    "component_product_number": "00-5994-032-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403223"
+                },
+                {
+                    "component_product_number": "00-5994-040-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404010"
+                },
+                {
+                    "component_product_number": "00-5994-040-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404012"
+                },
+                {
+                    "component_product_number": "00-5994-040-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404014"
+                },
+                {
+                    "component_product_number": "00-5994-040-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404017"
+                },
+                {
+                    "component_product_number": "00-5994-040-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404020"
+                },
+                {
+                    "component_product_number": "00-5994-040-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404023"
+                },
+                {
+                    "component_product_number": "00-5994-041-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404110"
+                },
+                {
+                    "component_product_number": "00-5994-041-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404112"
+                },
+                {
+                    "component_product_number": "00-5994-041-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "11",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404114"
+                },
+                {
+                    "component_product_number": "00-5994-041-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404117"
+                },
+                {
+                    "component_product_number": "00-5994-041-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404120"
+                },
+                {
+                    "component_product_number": "00-5994-041-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "23",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404123"
+                },
+                {
+                    "component_product_number": "00-5994-042-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404210"
+                },
+                {
+                    "component_product_number": "00-5994-042-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404212"
+                },
+                {
+                    "component_product_number": "00-5994-042-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404214"
+                },
+                {
+                    "component_product_number": "00-5994-042-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404217"
+                },
+                {
+                    "component_product_number": "00-5994-042-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404220"
+                },
+                {
+                    "component_product_number": "00-5994-042-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "13",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404223"
+                },
+                {
+                    "component_product_number": "00-5994-050-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405010"
+                },
+                {
+                    "component_product_number": "00-5994-050-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405012"
+                },
+                {
+                    "component_product_number": "00-5994-050-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "17",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405014"
+                },
+                {
+                    "component_product_number": "00-5994-050-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405017"
+                },
+                {
+                    "component_product_number": "00-5994-050-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "16",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405020"
+                },
+                {
+                    "component_product_number": "00-5994-050-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405023"
+                },
+                {
+                    "component_product_number": "00-5994-051-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405110"
+                },
+                {
+                    "component_product_number": "00-5994-051-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405112"
+                },
+                {
+                    "component_product_number": "00-5994-051-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "15",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405114"
+                },
+                {
+                    "component_product_number": "00-5994-051-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405117"
+                },
+                {
+                    "component_product_number": "00-5994-051-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "14",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405120"
+                },
+                {
+                    "component_product_number": "00-5994-051-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405123"
+                }
+            ],
+            "diff": [
+                {
+                    "pieces_missing": 21,
+                    "components_missing": [
+                        {
+                            "component_product_number": "00-5994-030-17",
+                            "component_prod_id": "00599403017",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-10",
+                            "component_prod_id": "00599404110",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-12",
+                            "component_prod_id": "00599404112",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-14",
+                            "component_prod_id": "00599404114",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-17",
+                            "component_prod_id": "00599404117",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-041-23",
+                            "component_prod_id": "00599404123",
+                            "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-14",
+                            "component_prod_id": "00599404214",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-17",
+                            "component_prod_id": "00599404217",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-20",
+                            "component_prod_id": "00599404220",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-042-23",
+                            "component_prod_id": "00599404223",
+                            "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-10",
+                            "component_prod_id": "00599405010",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-12",
+                            "component_prod_id": "00599405012",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-14",
+                            "component_prod_id": "00599405014",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-17",
+                            "component_prod_id": "00599405017",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-20",
+                            "component_prod_id": "00599405020",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-23",
+                            "component_prod_id": "00599405023",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-10",
+                            "component_prod_id": "00599405110",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-14",
+                            "component_prod_id": "00599405114",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-17",
+                            "component_prod_id": "00599405117",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-20",
+                            "component_prod_id": "00599405120",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-23",
+                            "component_prod_id": "00599405123",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM"
+                        }
+                    ]
+                }
+            ]
+        },
+        "107": {
+            "breakout": [
+                {
+                    "component_product_number": "00-5960-099-00",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "305",
+                    "component_description": "NEXGEN TAPER PLUG",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00596009900"
+                },
+                {
+                    "component_product_number": "00-5994-030-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "2",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403010"
+                },
+                {
+                    "component_product_number": "00-5994-030-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "4",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403012"
+                },
+                {
+                    "component_product_number": "00-5994-030-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403014"
+                },
+                {
+                    "component_product_number": "00-5994-030-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "27",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403017"
+                },
+                {
+                    "component_product_number": "00-5994-030-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403020"
+                },
+                {
+                    "component_product_number": "00-5994-030-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "8",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 3-4/YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403023"
+                },
+                {
+                    "component_product_number": "00-5994-032-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403210"
+                },
+                {
+                    "component_product_number": "00-5994-032-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "19",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599403212"
+                },
+                {
+                    "component_product_number": "00-5994-032-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR/YELLOW, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403214"
+                },
+                {
+                    "component_product_number": "00-5994-032-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403217"
+                },
+                {
+                    "component_product_number": "00-5994-032-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "10",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403220"
+                },
+                {
+                    "component_product_number": "00-5994-032-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599403223"
+                },
+                {
+                    "component_product_number": "00-5994-040-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404010"
+                },
+                {
+                    "component_product_number": "00-5994-040-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404012"
+                },
+                {
+                    "component_product_number": "00-5994-040-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404014"
+                },
+                {
+                    "component_product_number": "00-5994-040-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404017"
+                },
+                {
+                    "component_product_number": "00-5994-040-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404020"
+                },
+                {
+                    "component_product_number": "00-5994-040-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599404023"
+                },
+                {
+                    "component_product_number": "00-5994-041-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404110"
+                },
+                {
+                    "component_product_number": "00-5994-041-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404112"
+                },
+                {
+                    "component_product_number": "00-5994-041-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "11",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404114"
+                },
+                {
+                    "component_product_number": "00-5994-041-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404117"
+                },
+                {
+                    "component_product_number": "00-5994-041-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404120"
+                },
+                {
+                    "component_product_number": "00-5994-041-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "23",
+                    "component_description": "NEXGEN LCCK ART SURF, CD 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404123"
+                },
+                {
+                    "component_product_number": "00-5994-042-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404210"
+                },
+                {
+                    "component_product_number": "00-5994-042-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "9",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404212"
+                },
+                {
+                    "component_product_number": "00-5994-042-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404214"
+                },
+                {
+                    "component_product_number": "00-5994-042-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "1",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404217"
+                },
+                {
+                    "component_product_number": "00-5994-042-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404220"
+                },
+                {
+                    "component_product_number": "00-5994-042-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "13",
+                    "component_description": "NEXGEN LCCK ART SURF, G 5-6/STRIPE GREEN, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599404223"
+                },
+                {
+                    "component_product_number": "00-5994-050-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405010"
+                },
+                {
+                    "component_product_number": "00-5994-050-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "6",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405012"
+                },
+                {
+                    "component_product_number": "00-5994-050-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "17",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 14MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405014"
+                },
+                {
+                    "component_product_number": "00-5994-050-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "3",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 17MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405017"
+                },
+                {
+                    "component_product_number": "00-5994-050-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "16",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405020"
+                },
+                {
+                    "component_product_number": "00-5994-050-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405023"
+                },
+                {
+                    "component_product_number": "00-5994-051-10",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 10MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405110"
+                },
+                {
+                    "component_product_number": "00-5994-051-12",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "0",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 12MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405112"
+                },
+                {
+                    "component_product_number": "00-5994-051-14",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "15",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405114"
+                },
+                {
+                    "component_product_number": "00-5994-051-17",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM",
+                    "qty_in_kit": "0",
+                    "component_prod_id": "00599405117"
+                },
+                {
+                    "component_product_number": "00-5994-051-20",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "14",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 20MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405120"
+                },
+                {
+                    "component_product_number": "00-5994-051-23",
+                    "qty_avail_sh": "None",
+                    "qty_avail_e01": "7",
+                    "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 23MM",
+                    "qty_in_kit": "1",
+                    "component_prod_id": "00599405123"
+                }
+            ],
+            "diff": [
+                {
+                    "pieces_missing": 5,
+                    "components_missing": [
+                        {
+                            "component_product_number": "00-5994-032-12",
+                            "component_prod_id": "00599403212",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 3-4/STR YELLOW, 12MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-040-23",
+                            "component_prod_id": "00599404023",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 5-6/GREEN, 23MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-050-20",
+                            "component_prod_id": "00599405020",
+                            "component_description": "NEXGEN LCCK ART SURF, G 7-10/BLUE, 20MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-14",
+                            "component_prod_id": "00599405114",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 14MM"
+                        },
+                        {
+                            "component_product_number": "00-5994-051-17",
+                            "component_prod_id": "00599405117",
+                            "component_description": "NEXGEN LCCK ART SURF, EF 7-10/STRIPE BLUE, 17MM"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "kit_number": "57-5994-000-00"
+}
